@@ -1,7 +1,11 @@
-## Update 11/09/2107
+## Update 12/05/2019
+- Updated to **Angular 7.2.15**
+- Updated to `@angular/material@7.3.7`
+
+## Update 11/09/2017
 - Updated to **Angular 5.0**
 
-## Update 03/24/2107
+## Update 03/24/2017
 - Updated to **Angular 4.0**
 - Updated to `@angular/cli@1.0.0`
 
