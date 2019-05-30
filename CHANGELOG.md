@@ -1,3 +1,6 @@
+## Update 30/05/2019
+- Updated to **Angular 8.0.0**
+
 ## Update 12/05/2019
 - Updated to **Angular 7.2.15**
 - Updated to `@angular/material@7.3.7`
