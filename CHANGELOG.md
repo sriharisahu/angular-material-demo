@@ -1,3 +1,6 @@
+## Update 07/02/2020
+- Updated to **Angular 9.0.0**
+
 ## Update 30/05/2019
 - Updated to **Angular 8.0.0**
 
